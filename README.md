@@ -1,11 +1,13 @@
 # World Clock Card
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/v/release/korova-sq/world-clock-card)](https://github.com/korova-sq/world-clock-card/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat)](https://github.com/hacs/integration)
+[![GitHub Release](https://img.shields.io/github/v/release/korova-sq/world-clock-card?style=flat)](https://github.com/korova-sq/world-clock-card/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/korova-sq/world-clock-card?style=flat)](https://github.com/korova-sq/world-clock-card/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/korova-sq/world-clock-card/total?style=flat&label=downloads)](https://github.com/korova-sq/world-clock-card/releases)
+[![Downloads@latest](https://img.shields.io/github/downloads/korova-sq/world-clock-card/latest/total?style=flat&label=downloads%40latest)](https://github.com/korova-sq/world-clock-card/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues/korova-sq/world-clock-card?style=flat)](https://github.com/korova-sq/world-clock-card/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-korova.sq-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/korova.sq)
-
-<br>
 
 ![World Clock Card](images/banner.png)
 
@@ -44,10 +46,14 @@ their own labels, dial styles and colors. Backgrounds, gradients, transparency a
 
 ### HACS (recommended)
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=korova-sq&repository=world-clock-card&category=plugin)
+
 1. Go to **HACS → Frontend**.
 2. Open the menu (⋮) → **Custom repositories**.
 3. Add `https://github.com/korova-sq/world-clock-card` with category **Lovelace**.
 4. Install **World Clock Card** and reload your browser.
+
+*(Or just click the **Open in HACS** button above.)*
 
 ### Manual
 
